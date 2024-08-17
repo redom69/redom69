@@ -70,7 +70,7 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
 
 <div align="center">
-  ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical" alt="Top Lenguajes" height="150px"/>
 </div>
 
 
