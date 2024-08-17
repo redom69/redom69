@@ -62,9 +62,12 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 
+<div align="center">
+
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical)
 
 
+</div>
 
 
 ---
