@@ -44,8 +44,6 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 ## 📊 Mis Estadísticas de GitHub
 
 ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=redom69&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=redom69&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redom69&theme=radical)
 
 
@@ -63,6 +61,9 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical)
+
 
 
 
