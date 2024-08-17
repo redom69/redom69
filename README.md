@@ -32,7 +32,7 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 
 ## 💼 Proyectos Destacados
 
-- [**My Personal Web Page**](https://github.com/redom69/myPersonalAppWeb) - Mi página web personal, donde muestro mis proyectos y habilidades.
+- [**My Personal Web Page**](https://github.com/redom69/myPersonalAppWeb) - Mi primera pagina web construida en un monorepo con funcionalidad muy variada.
 - [**Almuerzi**](https://github.com/redom69/almuerzi) - Una aplicación para la gestión de reservas de almuerzos.
 - [**Space Reservation System**](https://github.com/redom69/Space-Reservation-System) - Sistema para la reserva de espacios.
 
@@ -43,8 +43,10 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 
 ## 📊 Mis Estadísticas de GitHub
 
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=redom69&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redom69&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=redom69&show_icons=true&theme=radical" alt="Mis Estadísticas de GitHub" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redom69&theme=radical" alt="GitHub Streak" height="150px"/>
+</div>
 
 
 ## 🛠️ Tecnologías
@@ -68,10 +70,7 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
 
 <div align="center">
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical)
-
-
+  ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical)
 </div>
 
 
