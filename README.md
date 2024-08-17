@@ -27,7 +27,7 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 - **Certificaciones:** 
   - Microsoft Azure Fundamentals (AZ-900)
   - Machine Learning by DeepLearning.AI (Coursera)
-  - Varios cursos de Full Stack y desarrollo móvil
+  - Varios cursos de Full Stack y desarrollo móvil en UDEMY y Coursera
 - **Enfoque:** Buenas prácticas de desarrollo, optimización de rendimiento, y seguridad en aplicaciones web.
 
 ## 💼 Proyectos Destacados
