@@ -51,6 +51,8 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
@@ -61,6 +63,9 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
 
 <div align="center">
 
