@@ -80,5 +80,5 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 
 ## 🎨 Portfolio
 
-Si deseas conocer más sobre mi trabajo y proyectos, visita mi [Portafolio Personal](https://github.com/redom69/myPersonalAppWeb).
+Si deseas conocer más sobre mi trabajo y proyectos, visita mi [Portfolio Personal](https://github.com/redom69?tab=repositories).
 
