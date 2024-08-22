@@ -48,7 +48,9 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=redom69&show_icons=true&theme=radical" alt="Mis Estadísticas de GitHub" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=redom69&theme=radical" alt="GitHub Streak" height="150px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redom69&theme=tokyo-night" alt="GitHub Activity Graph" height="150px"/>
 </div>
+
 
 
 ## 🛠️ Tecnologías
