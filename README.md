@@ -42,7 +42,8 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-puerto-57a093194/)
 - [Stack Overflow](https://stackoverflow.com/users/22245024/daniel-hernandez)
-- [Contacto](sirdanielsan64@gmail.com)
+- [Email](mailto:sirdanielsan64@gmail.com)
+
 
 ## 📊 Mis Estadísticas de GitHub
 
