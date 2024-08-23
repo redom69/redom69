@@ -1,61 +1,56 @@
-# 👋 ¡Hola! Soy Daniel Hernández
+# 👋 Hello! I'm Daniel Hernández
 
-### Desarrollador Full Stack | Especialista en MERN Stack
+### Full Stack Developer | MERN Stack Specialist
 
-Soy un desarrollador Full Stack con 4 años de experiencia en la creación de aplicaciones web y móviles. Mi enfoque principal está en el desarrollo ágil y en seguir buenas prácticas para escribir código limpio y mantenible. Me apasiona resolver problemas complejos y construir soluciones escalables.
+I am a Full Stack Developer with 4 years of experience in creating web and mobile applications. My primary focus is on agile development and following best practices to write clean and maintainable code. I am passionate about solving complex problems and building scalable solutions.
 
+## 🚀 About Me
 
-## 🚀 Sobre Mí
-
-- **Lenguajes:** TypeScript, JavaScript, Swift
+- **Languages:** TypeScript, JavaScript, Swift
 - **Frontend:** React, Angular, React Native
 - **Backend:** Node.js, Express
-- **Bases de Datos:** PostgreSQL, SQL, MongoDB
+- **Databases:** PostgreSQL, SQL, MongoDB
 - **DevOps:** Docker, GitHub Actions, Azure DevOps
-- **Stack Principal:** MERN (MongoDB, Express, React, Node.js)
-- **Desarrollo Móvil:** React Native, Swift (iOS)
+- **Main Stack:** MERN (MongoDB, Express, React, Node.js)
+- **Mobile Development:** React Native, Swift (iOS)
 
-## 🎯 Experiencia
+## 🎯 Experience
 
-- **Años de experiencia:** 4 años
-- **Áreas:** Desarrollo web, desarrollo de aplicaciones móviles, DevOps, configuración de máquinas virtuales
-- **Proyectos:** Aplicaciones móviles, servicios web, monorepos, plataformas de reserva, y más.
+- **Years of Experience:** 4 years
+- **Areas:** Web development, mobile app development, DevOps, virtual machine configuration
+- **Projects:** Mobile apps, web services, monorepos, reservation platforms, and more.
 
-## 📚 Especialización
+## 📚 Specialization
 
-- **Metodologías de Trabajo:** Scrum, Agile, CI/CD
-- **Certificaciones:** 
+- **Work Methodologies:** Scrum, Agile, CI/CD
+- **Certifications:** 
   - Microsoft Azure Fundamentals (AZ-900)
   - Machine Learning by DeepLearning.AI (Coursera)
-  - Varios cursos de Full Stack y desarrollo móvil
-- **Enfoque:** Buenas prácticas de desarrollo, optimización de rendimiento, y seguridad en aplicaciones web.
+  - Various Full Stack and mobile development courses
+- **Focus:** Best development practices, performance optimization, and web application security.
 
-## 💼 Proyectos Destacados
+## 💼 Featured Projects
 
-- [**My Personal Web Page**](https://github.com/redom69/myPersonalAppWeb) - Mi primera pagina web construida en un monorepo con funcionalidad muy variada.
-- [**Space Reservation System**](https://github.com/redom69/Space-Reservation-System) - Sistema para la reserva de espacios.
-- [**Almuerzi**](https://github.com/redom69/almuerzi) - Una aplicación movil para IOS para la gestión de reservas de almuerzos.
-- [**Map With Points**](https://github.com/redom69/MapWithPoints) - Es una app movil para IOS que te permite marcar y desmarcar puntos de un mapa.
+- [**My Personal Web Page**](https://github.com/redom69/myPersonalAppWeb) - My first web page built in a monorepo with a wide variety of features.
+- [**Space Reservation System**](https://github.com/redom69/Space-Reservation-System) - A space reservation system.
+- [**Almuerzi**](https://github.com/redom69/almuerzi) - An iOS mobile app for managing lunch reservations.
+- [**Map With Points**](https://github.com/redom69/MapWithPoints) - An iOS mobile app that allows you to mark and unmark points on a map.
 
-
-## 🌐 Conéctate Conmigo
+## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-puerto-57a093194/)
 - [Stack Overflow](https://stackoverflow.com/users/22245024/daniel-hernandez)
 - [Email](mailto:sirdanielsan64@gmail.com)
 
-
-## 📊 Mis Estadísticas de GitHub
+## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redom69&show_icons=true&theme=radical" alt="Mis Estadísticas de GitHub" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=redom69&show_icons=true&theme=radical" alt="My GitHub Stats" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=redom69&theme=radical" alt="GitHub Streak" height="150px"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=redom69&theme=tokyo-night" alt="GitHub Activity Graph" height="150px"/>
 </div>
 
-
-
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -76,13 +71,13 @@ Soy un desarrollador Full Stack con 4 años de experiencia en la creación de ap
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical" alt="Top Lenguajes" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
 </div>
-
 
 ---
 
 ## 🎨 Portfolio
 
-Si deseas conocer más sobre mi trabajo y proyectos, visita mi [Portfolio Personal](https://github.com/redom69?tab=repositories).
+If you'd like to learn more about my work and projects, visit my [Personal Portfolio](https://github.com/redom69?tab=repositories).
+
 
