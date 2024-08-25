@@ -58,6 +58,8 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
