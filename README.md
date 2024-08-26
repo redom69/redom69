@@ -7,7 +7,7 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
 ## 🚀 About Me
 
 - **Languages:** TypeScript, JavaScript, Swift, Dart
-- **Frontend:** React, Angular, React Native
+- **Frontend:** React, Angular
 - **Backend:** Node.js, Express
 - **Databases:** PostgreSQL, SQL, MongoDB
 - **DevOps:** Docker, GitHub Actions, Azure DevOps
@@ -25,6 +25,7 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
 - **Work Methodologies:** Scrum, Agile, CI/CD
 - **Certifications:** 
   - Microsoft Azure Fundamentals (AZ-900)
+  - Microsoft Azure Developer Associate (AZ-204)
   - Machine Learning by DeepLearning.AI (Coursera)
   - Various Full Stack and mobile development courses
 - **Focus:** Best development practices, performance optimization, and web application security.
