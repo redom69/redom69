@@ -6,13 +6,13 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
 
 ## 🚀 About Me
 
-- **Languages:** TypeScript, JavaScript, Swift
+- **Languages:** TypeScript, JavaScript, Swift, Dart
 - **Frontend:** React, Angular, React Native
 - **Backend:** Node.js, Express
 - **Databases:** PostgreSQL, SQL, MongoDB
 - **DevOps:** Docker, GitHub Actions, Azure DevOps
 - **Main Stack:** MERN (MongoDB, Express, React, Node.js)
-- **Mobile Development:** React Native, Swift (iOS)
+- **Mobile Development:** React Native, Flutter  
 
 ## 🎯 Experience
 
