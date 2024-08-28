@@ -55,7 +55,9 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
   <img src="https://github-readme-stats.vercel.app/api?username=redom69&show_icons=true&theme=radical" alt="My GitHub Stats" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=redom69&theme=radical" alt="GitHub Streak" height="150px"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=redom69&theme=tokyo-night" alt="GitHub Activity Graph" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
 </div>
+
 
 ## 🛠️ Technologies
 
