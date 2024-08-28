@@ -63,7 +63,10 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
@@ -77,8 +80,10 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
