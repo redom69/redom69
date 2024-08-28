@@ -9,16 +9,22 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
 - **Languages:** TypeScript, JavaScript, Swift, Dart
 - **Frontend:** React, Angular
 - **Backend:** Node.js, Express
-- **Databases:** PostgreSQL, SQL, MongoDB
+- **Databases:** MongoDB, PostgreSQL, SQL
 - **DevOps:** Docker, GitHub Actions, Azure DevOps
 - **Main Stack:** MERN (MongoDB, Express, React, Node.js)
-- **Mobile Development:** React Native, Flutter  
+- **Mobile Development:** Flutter, React Native
 
 ## 🎯 Experience
 
 - **Years of Experience:** 4 years
-- **Areas:** Web development, mobile app development, DevOps, virtual machine configuration
-- **Projects:** Mobile apps, web services, monorepos, reservation platforms, and more.
+- **Specializations:** Web Development, Mobile App Development, DevOps, Virtual Machine Configuration
+- **Key Areas:**
+  - **Web Development:** Developed and maintained responsive web applications using modern JavaScript frameworks (React, Angular) with a focus on performance and scalability.
+  - **Mobile App Development:** Built and deployed cross-platform mobile applications using React Native and Flutter, ensuring seamless integration with backend services.
+  - **DevOps:** Implemented CI/CD pipelines using Docker, GitHub Actions, and Azure DevOps, optimizing deployment processes and reducing downtime.
+  - **Virtual Machine Configuration:** Configured and managed virtual machines for development and production environments, enhancing infrastructure reliability and security.
+- **Technologies Used:** TypeScript, JavaScript, Node.js, React, Angular, MongoDB, PostgreSQL, Docker, GitHub Actions, Azure DevOps, React Native, Flutter
+
 
 ## 📚 Specialization
 
@@ -55,23 +61,23 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
