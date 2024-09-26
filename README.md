@@ -93,6 +93,6 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
 
 ## 🎨 Portfolio
 
-If you'd like to learn more about my work and projects, visit my [Personal Portfolio](https://github.com/redom69?tab=repositories).
+If you'd like to learn more about my work and projects, visit my [Personal Portfolio](https://www.redom69.dev/).
 
 
