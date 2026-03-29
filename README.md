@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | MERN Stack Specialist
 
-I am a Full Stack Developer with 4 years of experience in creating web and mobile applications. My primary focus is on agile development and following best practices to write clean and maintainable code. I am passionate about solving complex problems and building scalable solutions.
+I am a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of experience in creating web and mobile applications. My primary focus is on agile development and following best practices to write clean and maintainable code. I am passionate about solving complex problems and building scalable solutions.
 
 ## 🚀 About Me
 
@@ -16,7 +16,7 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
 
 ## 🎯 Experience
 
-- **Years of Experience:** 4 years
+- **Years of Experience:** <!-- YEARS_START -->5<!-- YEARS_END --> years
 - **Specializations:** Web Development, Mobile App Development, DevOps, Virtual Machine Configuration
 - **Key Areas:**
   - **Web Development:** Developed and maintained responsive web applications using modern JavaScript frameworks (React, Angular) with a focus on performance and scalability.
@@ -94,5 +94,3 @@ I am a Full Stack Developer with 4 years of experience in creating web and mobil
 ## 🎨 Portfolio
 
 If you'd like to learn more about my work and projects, visit my [Personal Portfolio](https://www.redom69.dev/).
-
-
