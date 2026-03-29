@@ -64,14 +64,17 @@ I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of
 
 ## 🛠️ Technologies
 
-<!-- Core -->
+<!-- Languages -->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 <!-- Frontend -->
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
@@ -80,9 +83,9 @@ I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of
 <!-- Backend -->
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 <!-- Databases -->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -90,8 +93,8 @@ I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of
 <!-- Mobile -->
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+<!-- AI & Data -->
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 <!-- DevOps & Tools -->
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
