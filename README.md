@@ -38,11 +38,13 @@ I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of
 
 ## 💼 Featured Projects
 
-- [**My Personal Web Page**](https://github.com/redom69/myPersonalAppWeb) - Monorepo with NestJS, React + TypeScript, Prisma and PostgreSQL.
-- [**Vite React TypeScript**](https://github.com/redom69/vite-react-typescript) - Frontend app with TanStack Query/Router and React Hook Form.
-- [**Scalable E-Commerce Platform**](https://github.com/redom69/Scalable-E-Commerce-Platform) - Full stack scalable e-commerce architecture.
-- [**Space Reservation System**](https://github.com/redom69/Space-Reservation-System) - Full stack React + Node.js + Supabase.
+- [**My Personal Web Page**](https://github.com/redom69/myPersonalAppWeb) - Monorepo with NestJS, React + TypeScript, Prisma and PostgreSQL. Full stack flagship project.
+- [**Personal Blog & Portfolio**](https://github.com/redom69/redom69.dev) - Personal site and technical blog built with Astro + TypeScript. Live at [redom69.dev](https://www.redom69.dev/).
+- [**Vite React TypeScript**](https://github.com/redom69/vite-react-typescript) - Frontend app with TanStack Query/Router, React Hook Form and strict TypeScript.
+- [**Space Reservation System**](https://github.com/redom69/Space-Reservation-System) - Full stack space booking system with React + Node.js + Supabase.
+- [**Scalable E-Commerce Platform**](https://github.com/redom69/Scalable-E-Commerce-Platform) - E-commerce architecture with scalability in mind.
 - [**Quiz App Flutter**](https://github.com/redom69/quiz-app-flutter) - Cross-platform mobile quiz app built with Flutter.
+- [**Whiteboard Detection**](https://github.com/redom69/Programa-de-deteccion-de-pizarras) - Neural network trained to detect whiteboards in images using Python and Jupyter Notebook.
 - 🔒 **Private work:** Client projects in healthcare, wine & tourism, and fitness sectors.
 
 ## 🌐 Connect with Me
