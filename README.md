@@ -15,7 +15,7 @@ I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of
 ## 🎯 Experience
 
 - **Years of Experience:** <!-- YEARS_START -->5<!-- YEARS_END --> years (since January 2021)
-- **Journey:** Consultancy → direct clients → independent freelance
+- **Journey:** Consultancy → direct clients
 - **Sectors:** Healthcare · Wine & Tourism · Fitness · Food & Hospitality
 - **Specializations:** Full Stack Web Development, API Design, DevOps, Applied AI
 - **Key Areas:**
