@@ -1,30 +1,28 @@
 # 👋 Hello! I'm Daniel Hernández
 
-### Full Stack Developer | MERN Stack Specialist
+### Full Stack Developer · TypeScript · MERN · Madrid
 
-I am a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of experience in creating web and mobile applications. My primary focus is on agile development and following best practices to write clean and maintainable code. I am passionate about solving complex problems and building scalable solutions.
+I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of experience building web applications and products. I run my own company, **Top Code S.L.U.**, where I work with clients on everything from MVPs to complex full-stack systems. I care about clean architecture, strict TypeScript, and shipping things that actually work.
 
 ## 🚀 About Me
 
-- **Languages:** TypeScript, JavaScript, Swift, Dart
-- **Frontend:** React, Angular
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, PostgreSQL, SQL
-- **DevOps:** Docker, GitHub Actions, Azure DevOps
-- **Main Stack:** MERN (MongoDB, Express, React, Node.js)
-- **Mobile Development:** Flutter, React Native
+- 📍 **Madrid, Spain**
+- 🏢 **Founder & Developer** at [Top Code S.L.U.](https://www.redom69.dev/)
+- 💻 **Main Stack:** TypeScript · React · NestJS · Node.js · PostgreSQL · Prisma
+- 🧠 **Also working with:** TanStack Query/Router · React Hook Form · Docker · GitHub Actions
+- 🤖 **Currently exploring:** Applied AI & LLM integrations in real products
+- ✍️ **Writing about dev at:** [redom69.dev](https://www.redom69.dev/)
 
 ## 🎯 Experience
 
-- **Years of Experience:** <!-- YEARS_START -->5<!-- YEARS_END --> years
-- **Specializations:** Web Development, Mobile App Development, DevOps, Virtual Machine Configuration
+- **Years of Experience:** <!-- YEARS_START -->5<!-- YEARS_END --> years (since January 2021)
+- **Specializations:** Full Stack Web Development, API Design, DevOps, Applied AI
 - **Key Areas:**
-  - **Web Development:** Developed and maintained responsive web applications using modern JavaScript frameworks (React, Angular) with a focus on performance and scalability.
-  - **Mobile App Development:** Built and deployed cross-platform mobile applications using React Native and Flutter, ensuring seamless integration with backend services.
-  - **DevOps:** Implemented CI/CD pipelines using Docker, GitHub Actions, and Azure DevOps, optimizing deployment processes and reducing downtime.
-  - **Virtual Machine Configuration:** Configured and managed virtual machines for development and production environments, enhancing infrastructure reliability and security.
-- **Technologies Used:** TypeScript, JavaScript, Node.js, React, Angular, MongoDB, PostgreSQL, Docker, GitHub Actions, Azure DevOps, React Native, Flutter
-
+  - **Frontend:** React with strict TypeScript, functional components, hooks — focused on performance and maintainability.
+  - **Backend:** NestJS + Node.js REST/GraphQL APIs, PostgreSQL with Prisma, clean architecture patterns.
+  - **DevOps:** CI/CD with GitHub Actions and Azure DevOps, Docker containerization, cloud deployments.
+  - **AI Integration:** Building products that integrate LLMs and AI APIs into real-world workflows.
+- **Technologies Used:** TypeScript, React, NestJS, Node.js, PostgreSQL, Prisma, MongoDB, Docker, GitHub Actions, Azure DevOps, TanStack Query/Router
 
 ## 📚 Specialization
 
@@ -33,8 +31,7 @@ I am a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years o
   - Microsoft Azure Fundamentals (AZ-900)
   - Microsoft Azure Developer Associate (AZ-204)
   - Machine Learning by DeepLearning.AI (Coursera)
-  - Various Full Stack and mobile development courses
-- **Focus:** Best development practices, performance optimization, and web application security.
+- **Focus:** Strict TypeScript, clean code, scalable architecture, and AI-enhanced development.
 
 ## 💼 Featured Projects
 
@@ -48,6 +45,7 @@ I am a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years o
 - [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-puerto-57a093194/)
 - [Stack Overflow](https://stackoverflow.com/users/22245024/daniel-hernandez)
 - [Email](mailto:sirdanielsan64@gmail.com)
+- [Blog](https://www.redom69.dev/)
 
 ## 📊 My GitHub Stats
 
