@@ -2,12 +2,11 @@
 
 ### Full Stack Developer · TypeScript · MERN · Madrid
 
-I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of experience building web applications and products. I run my own company, **Top Code S.L.U.**, where I work with clients on everything from MVPs to complex full-stack systems. I care about clean architecture, strict TypeScript, and shipping things that actually work.
+I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of experience building web applications and products. I care about clean architecture, strict TypeScript, and shipping things that actually work.
 
 ## 🚀 About Me
 
 - 📍 **Madrid, Spain**
-- 🏢 **Founder & Developer** at [Top Code S.L.U.](https://www.redom69.dev/)
 - 💻 **Main Stack:** TypeScript · React · NestJS · Node.js · PostgreSQL · Prisma
 - 🧠 **Also working with:** TanStack Query/Router · React Hook Form · Docker · GitHub Actions
 - 🤖 **Currently exploring:** Applied AI & LLM integrations in real products
