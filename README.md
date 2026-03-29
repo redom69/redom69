@@ -15,12 +15,16 @@ I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of
 ## 🎯 Experience
 
 - **Years of Experience:** <!-- YEARS_START -->5<!-- YEARS_END --> years (since January 2021)
+- **Journey:** Consultancy → direct clients → independent freelance
+- **Sectors:** Healthcare · Wine & Tourism · Fitness · Food & Hospitality
 - **Specializations:** Full Stack Web Development, API Design, DevOps, Applied AI
 - **Key Areas:**
-  - **Frontend:** React with strict TypeScript, functional components, hooks — focused on performance and maintainability.
+  - **Frontend:** React with strict TypeScript, TanStack Query/Router, i18n, SEO and accessibility focus.
   - **Backend:** NestJS + Node.js REST/GraphQL APIs, PostgreSQL with Prisma, clean architecture patterns.
+  - **Legacy modernization:** PHP/MySQL to modern stack migrations and progressive refactors.
   - **DevOps:** CI/CD with GitHub Actions and Azure DevOps, Docker containerization, cloud deployments.
-  - **AI Integration:** Building products that integrate LLMs and AI APIs into real-world workflows.
+  - **AI Integration:** LLM integrations in real products, ML certified (DeepLearning.AI).
+- **Writing:** Technical blog at [redom69.dev](https://www.redom69.dev/)
 - **Technologies Used:** TypeScript, React, NestJS, Node.js, PostgreSQL, Prisma, MongoDB, Docker, GitHub Actions, Azure DevOps, TanStack Query/Router
 
 ## 📚 Specialization
