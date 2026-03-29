@@ -38,10 +38,12 @@ I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of
 
 ## 💼 Featured Projects
 
-- [**My Personal Web Page**](https://github.com/redom69/myPersonalAppWeb) - My first web page built in a monorepo with a wide variety of features.
-- [**Space Reservation System**](https://github.com/redom69/Space-Reservation-System) - A space reservation system.
-- [**Almuerzi**](https://github.com/redom69/almuerzi) - An iOS mobile app for managing lunch reservations.
-- [**Map With Points**](https://github.com/redom69/MapWithPoints) - An iOS mobile app that allows you to mark and unmark points on a map.
+- [**My Personal Web Page**](https://github.com/redom69/myPersonalAppWeb) - Monorepo with NestJS, React + TypeScript, Prisma and PostgreSQL.
+- [**Vite React TypeScript**](https://github.com/redom69/vite-react-typescript) - Frontend app with TanStack Query/Router and React Hook Form.
+- [**Scalable E-Commerce Platform**](https://github.com/redom69/Scalable-E-Commerce-Platform) - Full stack scalable e-commerce architecture.
+- [**Space Reservation System**](https://github.com/redom69/Space-Reservation-System) - Full stack React + Node.js + Supabase.
+- [**Quiz App Flutter**](https://github.com/redom69/quiz-app-flutter) - Cross-platform mobile quiz app built with Flutter.
+- 🔒 **Private work:** Client projects in healthcare, wine & tourism, and fitness sectors.
 
 ## 🌐 Connect with Me
 
@@ -58,33 +60,42 @@ I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=redom69&theme=tokyo-night" alt="GitHub Activity Graph" height="150px"/>
 </div>
 
-
 ## 🛠️ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+<!-- Core -->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
-![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+<!-- Frontend -->
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+<!-- Backend -->
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+<!-- Databases -->
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<!-- Mobile -->
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+<!-- DevOps & Tools -->
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
-
+![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
