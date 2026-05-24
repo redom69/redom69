@@ -22,18 +22,20 @@ I build products for clients in healthcare, hospitality and fitness. I care abou
 
 **Applied AI** — LLM features in production (RAG, agents, tool use). ML certified by DeepLearning.AI.
 
-5 years end-to-end. Azure certified (AZ-900, AZ-204). Most recent client work is under NDA.
+5 years end-to-end. Azure certified (AZ-900, AZ-204). Most of my full-time and client work is under NDA.
 
 ---
 
 ## Selected projects
 
 - [redom69.dev](https://github.com/redom69/redom69.dev) — Personal site and technical blog. Astro · TypeScript.
+- [calories-AI-app](https://github.com/redom69/calories-AI-app) — Mobile nutrition tracker with AI-powered recommendations. React Native.
+- [vite-react-typescript](https://github.com/redom69/vite-react-typescript) — Dataset editor for software licenses. React · TanStack Query/Router · react-hook-form · strict TS.
 - [myPersonalAppWeb](https://github.com/redom69/myPersonalAppWeb) — Full stack monorepo. NestJS · React · Prisma · PostgreSQL.
-- [vite-react-typescript](https://github.com/redom69/vite-react-typescript) — Frontend template with strict TS. Vite · React · TanStack.
-- [Space-Reservation-System](https://github.com/redom69/Space-Reservation-System) — Booking system. React · Node · Supabase.
-- [Whiteboard Detection](https://github.com/redom69/Programa-de-deteccion-de-pizarras) — CNN for whiteboard detection. Python · Jupyter.
+- [Space-Reservation-System](https://github.com/redom69/Space-Reservation-System) — Booking platform for shared workspaces. React · Node · Express · Supabase.
+
+Recent freelance: physiotherapy practice site, volleyball club platform.
 
 ---
 
-**Stack** — TypeScript · React · NestJS · Node.js · PostgreSQL · Prisma · MongoDB · Docker · GitHub Actions · Azure DevOps
+**Stack** — TypeScript · JavaScript · React · React Native · Node.js · NestJS · PostgreSQL · Prisma · Supabase · Docker · GitHub Actions · Azure DevOps · Astro
