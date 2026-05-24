@@ -57,9 +57,8 @@ I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redom69&show_icons=true&theme=radical&cache_seconds=86400" alt="My GitHub Stats" height="150px"/>
-  <img src="https://streak-stats.demolab.com?user=redom69&theme=radical&cache_seconds=86400" alt="GitHub Streak" height="150px"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redom69&theme=tokyo-night&cache_seconds=86400" alt="GitHub Activity Graph" height="150px"/>
+  <img src="https://streak-stats.demolab.com?user=redom69&theme=radical" alt="GitHub Streak" height="150px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redom69&theme=tokyo-night" alt="GitHub Activity Graph" height="150px"/>
 </div>
 
 ## 🛠️ Technologies
@@ -101,10 +100,6 @@ I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
 ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redom69&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
-</div>
 
 ---
 
