@@ -1,108 +1,72 @@
-# 👋 Hello! I'm Daniel Hernández
+# 👋 Hi, I'm Daniel Hernández
 
-### Full Stack Developer · TypeScript · MERN · Madrid
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=58A6FF&vCenter=true&width=600&lines=Full+Stack+Developer+%C2%B7+Madrid;TypeScript+%C2%B7+React+%C2%B7+NestJS+%C2%B7+Node.js;Clean+architecture%2C+strict+TS%2C+real+products;Currently+exploring+applied+AI" alt="Typing SVG"/>
+</p>
 
-I'm a Full Stack Developer with <!-- YEARS_START -->5<!-- YEARS_END --> years of experience building web applications and products. I care about clean architecture, strict TypeScript, and shipping things that actually work.
+Building web apps since January 2021. I work mostly with TypeScript across the stack, care about clean architecture, and prefer shipping small, well-tested things over big-bang releases. Currently exploring how to integrate LLMs into real products without falling into demo-mode hype.
 
-## 🚀 About Me
+I write about what I learn at [redom69.dev](https://www.redom69.dev/).
 
-- 📍 **Madrid, Spain**
-- 💻 **Main Stack:** TypeScript · React · NestJS · Node.js · PostgreSQL · Prisma
-- 🧠 **Also working with:** TanStack Query/Router · React Hook Form · Docker · GitHub Actions
-- 🤖 **Currently exploring:** Applied AI & LLM integrations in real products
-- ✍️ **Writing about dev at:** [redom69.dev](https://www.redom69.dev/)
+---
 
-## 🎯 Experience
+## What I do
 
-- **Years of Experience:** <!-- YEARS_START -->5<!-- YEARS_END --> years (since January 2021)
-- **Journey:** Consultancy → direct clients
-- **Sectors:** Healthcare · Wine & Tourism · Fitness · Food & Hospitality
-- **Specializations:** Full Stack Web Development, API Design, DevOps, Applied AI
-- **Key Areas:**
-  - **Frontend:** React with strict TypeScript, TanStack Query/Router, i18n, SEO and accessibility focus.
-  - **Backend:** NestJS + Node.js REST/GraphQL APIs, PostgreSQL with Prisma, clean architecture patterns.
-  - **Legacy modernization:** PHP/MySQL to modern stack migrations and progressive refactors.
-  - **DevOps:** CI/CD with GitHub Actions and Azure DevOps, Docker containerization, cloud deployments.
-  - **AI Integration:** LLM integrations in real products, ML certified (DeepLearning.AI).
-- **Writing:** Technical blog at [redom69.dev](https://www.redom69.dev/)
-- **Technologies Used:** TypeScript, React, NestJS, Node.js, PostgreSQL, Prisma, MongoDB, Docker, GitHub Actions, Azure DevOps, TanStack Query/Router
+**Frontend** — React with strict TypeScript, TanStack Query/Router, React Hook Form. SEO, i18n and accessibility from day one.
 
-## 📚 Specialization
+**Backend** — NestJS + Node.js, REST and GraphQL APIs, PostgreSQL with Prisma. Clean architecture and DDD where it makes sense, not as dogma.
 
-- **Work Methodologies:** Scrum, Agile, CI/CD
-- **Certifications:** 
-  - Microsoft Azure Fundamentals (AZ-900)
-  - Microsoft Azure Developer Associate (AZ-204)
-  - Machine Learning by DeepLearning.AI (Coursera)
-- **Focus:** Strict TypeScript, clean code, scalable architecture, and AI-enhanced development.
+**DevOps** — GitHub Actions and Azure DevOps for CI/CD, Docker for everything, deploys to Azure / Vercel / Hetzner depending on the project.
 
-## 💼 Featured Projects
+**Legacy modernization** — incremental PHP/MySQL → modern stack migrations without freezing the product.
 
-- [**My Personal Web Page**](https://github.com/redom69/myPersonalAppWeb) - Monorepo with NestJS, React + TypeScript, Prisma and PostgreSQL. Full stack flagship project.
-- [**Personal Blog & Portfolio**](https://github.com/redom69/redom69.dev) - Personal site and technical blog built with Astro + TypeScript. Live at [redom69.dev](https://www.redom69.dev/).
-- [**Vite React TypeScript**](https://github.com/redom69/vite-react-typescript) - Frontend app with TanStack Query/Router, React Hook Form and strict TypeScript.
-- [**Space Reservation System**](https://github.com/redom69/Space-Reservation-System) - Full stack space booking system with React + Node.js + Supabase.
-- [**Scalable E-Commerce Platform**](https://github.com/redom69/Scalable-E-Commerce-Platform) - E-commerce architecture with scalability in mind.
-- [**Quiz App Flutter**](https://github.com/redom69/quiz-app-flutter) - Cross-platform mobile quiz app built with Flutter.
-- [**Whiteboard Detection**](https://github.com/redom69/Programa-de-deteccion-de-pizarras) - Neural network trained to detect whiteboards in images using Python and Jupyter Notebook.
-- 🔒 **Private work:** Client projects in healthcare, wine & tourism, and fitness sectors.
+**Applied AI** — LLM features in production (RAG, agents, tool use). ML certified by DeepLearning.AI.
 
-## 🌐 Connect with Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-puerto-57a093194/)
-- [Stack Overflow](https://stackoverflow.com/users/22245024/daniel-hernandez)
-- [Email](mailto:sirdanielsan64@gmail.com)
-- [Blog](https://www.redom69.dev/)
+## Background
 
-## 📊 My GitHub Stats
+- 5 years building products end-to-end, from consultancy work to direct clients
+- Domains: healthcare, wine & tourism, fitness, food & hospitality
+- Methodology: Scrum / Agile, trunk-based, code review culture
+- Azure certified: AZ-900 and AZ-204
+
+---
+
+## Selected projects
+
+| Project | Stack | Notes |
+|---|---|---|
+| [redom69.dev](https://github.com/redom69/redom69.dev) | Astro · TypeScript | Personal site and technical blog |
+| [myPersonalAppWeb](https://github.com/redom69/myPersonalAppWeb) | NestJS · React · Prisma · PostgreSQL | Monorepo, full stack flagship |
+| [vite-react-typescript](https://github.com/redom69/vite-react-typescript) | Vite · React · TanStack | Frontend template with strict TS |
+| [Space-Reservation-System](https://github.com/redom69/Space-Reservation-System) | React · Node · Supabase | Full stack booking system |
+| [Scalable-E-Commerce-Platform](https://github.com/redom69/Scalable-E-Commerce-Platform) | — | E-commerce architecture exercise |
+| [Whiteboard Detection](https://github.com/redom69/Programa-de-deteccion-de-pizarras) | Python · Jupyter | CNN for whiteboard detection |
+
+Most recent client work is under NDA.
+
+---
+
+## Stack
+
+**Languages** — TypeScript · JavaScript · Python · PHP
+**Frontend** — React · Astro · TailwindCSS
+**Backend** — NestJS · Node.js · Express · GraphQL · Prisma
+**Databases** — PostgreSQL · MongoDB · MySQL
+**Infra & tooling** — Docker · GitHub Actions · Azure DevOps · Git
+
+---
+
+## Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=redom69&theme=radical" alt="GitHub Streak" height="150px"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=redom69&theme=tokyo-night" alt="GitHub Activity Graph" height="150px"/>
 </div>
 
-## 🛠️ Technologies
-
-<!-- Languages -->
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-<!-- Frontend -->
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-<!-- Backend -->
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-<!-- Databases -->
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-<!-- Mobile -->
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-<!-- AI & Data -->
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-<!-- DevOps & Tools -->
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
-![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
-
 ---
 
-## 🎨 Portfolio
+## Contact
 
-If you'd like to learn more about my work and projects, visit my [Personal Portfolio](https://www.redom69.dev/).
+[LinkedIn](https://www.linkedin.com/in/daniel-hernandez-puerto-57a093194/) · [Stack Overflow](https://stackoverflow.com/users/22245024/daniel-hernandez) · [Blog](https://www.redom69.dev/) · sirdanielsan64@gmail.com
